@@ -10,3 +10,7 @@ T-Academy 강의를 듣고 정리하였습니다.
 1. [인공지능의 기초, 신경망의 이해](https://blog.naver.com/jaeyoon_95/221709183635)
 2. [신경망의 이해, 컨볼루션 신경망의 원리](https://blog.naver.com/jaeyoon_95/221710336913)
 
+
+- - -
+## 자연어 언어모델 BERT(토크ON세미나 57차)
+1. [자연어 언어모델 BERT](https://blog.naver.com/jaeyoon_95/221707168254)
